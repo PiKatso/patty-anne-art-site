@@ -1,24 +1,51 @@
-# README
+## Patty Anna Art Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a portfolio site that shows artwork of Patty Anne.
 
-Things you may want to cover:
+## By Sowmya Dinavahi and Kat Gifford
 
-* Ruby version
+## Live Link:  **coming soon**
 
-* System dependencies
+## Specifications
 
-* Configuration
+* Design the Database
+* Implement a basic admin interface to perform crud operations.
+* Develop front end to showcase art pieces
+* Ability to order art pieces and create a payment gateway.
+* Add a contact form to send enquiries to the artist.
+* Add a about me page of the artist with a photograph.
 
-* Database creation
+Models:
 
-* Database initialization
+Medium :
+Oil Painting, Collages
 
-* How to run the test suite
+Painting:
+title, height, width , cost/price and quantity and category_id
 
-* Services (job queues, cache servers, search engines, etc.)
+Categories:
+Still life, landscape, godesses, political
 
-* Deployment instructions
+## Known Bugs
 
-* ...
+No known bugs as of now.
+
+## Support and contact details
+
+I am always open for our improvement/suggestions. Feel free to contact me at sowmya.dsl@gmail.com & katgiff2007@gmail.com
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* Ruby on Rails
+* Javascript
+* Jquery
+* (Possibly) ReactJs.
+* Bootstrap.
+
+### License
+
+OpenSource MIT
+
+Copyright (c) 2017 Sowmya Dinavahi and Kat Gifford
